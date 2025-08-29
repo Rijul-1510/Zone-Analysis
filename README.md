@@ -16,7 +16,8 @@ The pipeline supports data-driven decisions for marketing, operations, and suppl
 ```
 # System Architecture 
 
-<img width="954" height="551" alt="diagram-export-8-30-2025-12_22_52-AM" src="https://github.com/user-attachments/assets/6679b071-1ffe-48bb-9b9c-72ee38130226" />
+<img width="954" height="480" alt="diagram-export-8-30-2025-12_22_52-AM" src="https://github.com/user-attachments/assets/bb977af6-98d1-423e-a95f-0b231d96757f" />
+
 
 # Installation 
 ``` bash
