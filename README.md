@@ -54,9 +54,9 @@ cd <repo_url>
 At the top, you see:
   Thresholds for zone classification: [0.00368651 0.0280289]
 These thresholds are automatically calculated using PCA to split the zones into Low, Medium, and High performing categories.
-  - ≤ 0.0036 → Low
-  - 0.0036 – 0.0280 → Medium
-  - > 0.0280 → High
+  -  ≤ 0.0036 → Low
+  -  0.0036 – 0.0280 → Medium
+  -  >0.0280 → High
 
 ![WhatsApp Image 2025-08-30 at 00 25 47_da59be3f](https://github.com/user-attachments/assets/71c80784-a6ed-45a2-b7b0-2c8c13650d8f)
 
