@@ -71,6 +71,7 @@ Colors represent performance levels:
  - Green → High performing zone
  - Orange → Medium performing zone
  - Red → Low performing zone
+
 This helps quickly see which parts of Delhi are performing well and which need attention.
 # Zone specific
 ![WhatsApp Image 2025-08-30 at 00 28 34_ff165d3d](https://github.com/user-attachments/assets/c4ed0a67-b20d-4679-ba21-ba298241567f)
