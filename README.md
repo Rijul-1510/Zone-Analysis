@@ -15,14 +15,16 @@ The pipeline supports data-driven decisions for marketing, operations, and suppl
  - Zone Intelligence Layer: insights for marketing, retention, and discount optimization.
 ```
 # System Architecture 
-<img width="954" height="551" alt="diagram-export-8-30-2025-12_22_52-AM" src="https://github.com/user-attachments/assets/4e415c37-c7db-4374-b931-fe38ba1a9242" />
+
+<img width="954" height="551" alt="diagram-export-8-30-2025-12_22_52-AM" src="https://github.com/user-attachments/assets/6679b071-1ffe-48bb-9b9c-72ee38130226" />
+
 # Installation 
 ``` bash
 git clone <repo_url>
 cd <repo_url>
 ```
 
-# Worflow 
+# Workflow 
 ``` bash
 1. Data Extraction
    - Fetches sales data from PostgreSQL using SQLAlchemy.
