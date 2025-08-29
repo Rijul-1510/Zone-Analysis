@@ -57,6 +57,7 @@ These thresholds are automatically calculated using PCA to split the zones into 
   - ≤ 0.0036 → Low
   - 0.0036 – 0.0280 → Medium
   - > 0.0280 → High
+
 ![WhatsApp Image 2025-08-30 at 00 25 47_da59be3f](https://github.com/user-attachments/assets/71c80784-a6ed-45a2-b7b0-2c8c13650d8f)
 
 # Results 
@@ -81,7 +82,6 @@ The visualization gives a comparative view across cities and regions, showing wh
 
 # Insights 
 ![WhatsApp Image 2025-08-30 at 00 30 59_e65d14a3](https://github.com/user-attachments/assets/55904c32-03f4-41fa-be67-1cc3d8960517)
-![WhatsApp Image 2025-08-30 at 00 31 15_6779918f](https://github.com/user-attachments/assets/1d3724b0-6b97-4b6c-ab16-e478187c4419)
 
 1. Dinner = Primary Revenue Driver 
    - With the majority of orders coming during dinner, marketing spends, promotions, and delivery fleet allocation should heavily prioritize evening hours.
@@ -89,6 +89,9 @@ The visualization gives a comparative view across cities and regions, showing wh
 2. Lunch = Office-Centric Growth Opportunity 
    - IT hubs and business districts (Hinjewadi, Magarpatta, Kalyani Nagar) show strong lunch demand.
    - Brands should partner with corporate meal plans or subscription-based offers to capture recurring office crowd demand.
+
+![WhatsApp Image 2025-08-30 at 00 31 15_6779918f](https://github.com/user-attachments/assets/1d3724b0-6b97-4b6c-ab16-e478187c4419)
+
 3. Breakfast = Low ROI Segment 
    - Demand is consistently weak across the city.
    - Unless tied to niche categories (e.g., coffee chains, bakeries), heavy investment here may not pay off.
@@ -100,6 +103,7 @@ The visualization gives a comparative view across cities and regions, showing wh
 5. Zone Powerhouses Drive the Market
    - A handful of zones (Baner, Hinjewadi, Magarpatta, Kalyani Nagar) generate the lion’s share of orders.
    - These zones should be priority clusters for expansion, marketing campaigns, and operational excellence, while low-performing areas may need a lean model (fewer discounts, shared kitchens).
+
 # Future Improvement 
 1. Incorporating Customer Segments
    - Enrich zone intelligence by factoring in customer demographics, retention, and loyalty behavior.
